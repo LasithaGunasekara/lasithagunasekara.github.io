@@ -1,72 +1,74 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Lasitha Gunasekara — Personal Portfolio ⚡️
 
-> https://varadbhogayata.github.io
+A clean, responsive personal website for **Lasitha Gunasekara**, PhD candidate in **Scientific Computing** at **Florida State University**.
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+👉 **Live site:** https://lasithagunasekara.github.io
 
-### Website Preview
-<p align="center"> 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Flasithagunasekara.github.io)
+![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
+---
+
+### Preview
+<p align="center">
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
+    <!-- Replace with a real preview GIF/PNG if you add one -->
+    <img src="examples/preview.gif" alt="Website preview" />
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
+⭐️ If you like this site, consider starring the repo!
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+---
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+## Features
+- ⚡️ Fully responsive (mobile-friendly)
+- 🧼 Clean, accessible HTML/CSS/JS
+- 🖼 Easy image/content swaps via the `/assets` folder
+- 🛠 Simple to deploy with GitHub Pages
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+---
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+## Sections
+- About  
+- Experience  
+- Education  
+- Research & Projects  
+- Skills  
+- Contact  
+- CV/Resume
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+---
 
-## Contributing 💡
-#### Step 1
+## Highlighted Projects
 
-- **Option 1**
-    - 🍴 Fork this repo!
+- **Project 1 — Near-Singular Integration (Course Project, Spring 2025)**  
+  *Team: Lasitha Gunasekara, Sanjida Yeasmin, Jonathan Engle · Advisor: Dr. Bryan Quaife*  
+  Survey and analysis of methods for evaluating near-singular integrals (QBX, extrapolated regularization, geometric methods, three-region approaches). Includes theoretical insights and numerical comparisons.
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+- **Project 2 — Modeling and Analysis of Spin Coating (Advanced Transport Phenomena, Fall 2024)**  
+  Derived/validated thin-film equations under lubrication assumptions; reproduced Bornside et al. dry-film thickness results and discussed model limitations.
 
+- **Project 3 — Truncated SVD (tSVD) and Applications (Graduate Seminar, Spring 2024)**  
+  Overview of SVD vs. tSVD, dimensionality reduction, noise filtering, and conditioning of linear systems (connections to Chebyshev/Levin-type quadrature).
 
-#### Step 2
+- **Poster — Capsule in Shear Flow (NJIT Poster)**  
+  Role of shear on an **active nematic** viscous drop using spectral BIE methods; step toward simulating suspensions in confinement.
 
-- **Build your code** 🔨🔨🔨
+---
 
-#### Step 3
+## Skills
+**Python · C++ · Git · LaTeX · HTML5/CSS3 · Blender · ParaView**
 
-- 🔃 Create a new pull request.
+---
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+## Installation & Deployment
+
+### Run/preview locally
+```bash
+# clone
+git clone https://github.com/LasithaGunasekara/lasithagunasekara.github.io.git
+cd lasithagunasekara.github.io
+
+# open index.html in your browser (no build step needed)
